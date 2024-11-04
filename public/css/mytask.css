@@ -1,0 +1,61 @@
+body{
+    font-family: verdana;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: #d3cdea;
+    margin-top: -2%;
+    padding: 1.5%;
+}
+ul{
+    list-style: none;
+    margin-left: 77%;
+    margin-top: 3%;
+}
+li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: #1B0E4D;
+    font-weight: bolder;
+    font-size: 150%;
+}
+a:hover{
+    color: rgb(102, 102, 124);
+}
+.gambar-back{
+    width: 7%;
+    margin-left: -460%;
+}
+
+.box-task{
+    background-color: #1B0E4D;
+    padding-bottom: 10%;
+}
+.note-text-1{
+    display: block;
+    width: 22%;
+    color: #d3cdea;
+    font-size: 300%;
+    margin-top: -25%;
+    text-align: center;
+}
+.gambar-plus{
+    width: 5%;
+    margin-left: -35%;
+}
+.note-text-1{
+    margin-left: 50%;
+    
+}
+.deskripsi-plus{
+    color: #d3cdea;
+    margin-left: 13%;
+    margin-top: 12%;
+    font-weight: bolder;
+}
+.deskripsi-plus:hover{
+    color: gray;
+}
