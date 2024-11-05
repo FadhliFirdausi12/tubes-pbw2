@@ -18,13 +18,13 @@
     <a href="dashboard">
         <div class="back">
             <img class="back-image" src="./images2/back-2.png" alt="">
-            <a href="/admin" class="back-text">Back</h2>
+            <a href="/mytask" class="back-text">Back</h2>
         </div>
     </a>
 
     
     <div class="fitur">
-        <form action="#">
+        <form action="POST">
             <input type="text" name="" id="" placeholder="Task Tittle"> <br>
             <input type="text" name="" id="" placeholder="Notes">
             <input type="file">

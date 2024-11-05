@@ -9,12 +9,14 @@ body{
     padding: 1.5%;
 }
 ul{
+    display: flex;
+    justify-content: space-between;
     list-style: none;
-    margin-left: 77%;
+    /* margin-left: 77%; */
     margin-top: 3%;
 }
 li{
-    display: inline-block;
+
 }
 a{
     text-decoration: none;

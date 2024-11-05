@@ -11,9 +11,9 @@
 <body>
         <div class="container">
             <ul>
-                <li class="gambar-bar"><a href="#">MY TASK</a></li>
+                <li class="teks-bar"><a href="/admin">BACK</a></li>
                 <a href="home.html"><img class="gambar-back" src="./imgages2/back.png" alt=""></a>
-                <li class="teks-bar"><a href="home.html">BACK</a></li>
+                <li class="gambar-bar"><a href="#">MY TASK</a></li>
             </ul>
         </div>
     
