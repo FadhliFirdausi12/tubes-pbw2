@@ -12,9 +12,9 @@
 <body>
     <section id="header">
         <div class="container">
-            <img src="./images/logo.png" class="logo">
+            {{-- <img src="./images/logo.png" class="logo"> --}}
             <div class="header-text">
-                <h1>Organize Your Life, <br>Simplify Your Tasks</h1>
+                <h1>Organize Your Life, <br>Simplify Your Tasks.</h1>
                 <span class="square"></span>
                 <p>Are you struggling to keep track of your busy schedule, endless tasks, and financial management? Say
                     goodbye to chaos and hello to organization with our Life Organizer!</p>
@@ -208,7 +208,7 @@
                         <small>copyright 2024 LO</small>
                     </div>
                     <div class="footer-logo">
-                        <img src="./images/logo.png">
+                        {{-- <img src="./images/logo.png"> --}}
                         <button class="common-btn">English</button>
                     </div>
                 </div>

@@ -4,7 +4,7 @@ body{
     padding: 0px;
 }
 .container{
-    background-color: #d3cdea;
+    background-color: #B22222;
     margin-top: -2%;
     padding: 1.5%;
 }
@@ -20,7 +20,7 @@ li{
 }
 a{
     text-decoration: none;
-    color: #1B0E4D;
+    color: #FFF;
     font-weight: bolder;
     font-size: 150%;
 }
@@ -33,20 +33,20 @@ a:hover{
 }
 
 .box-task{
-    background-color: #1B0E4D;
+    background-color: #B22222;
     padding-bottom: 10%;
 }
 .note-text-1{
     display: block;
     width: 22%;
-    color: #d3cdea;
+    color: #FFFF;
     font-size: 300%;
     margin-top: -25%;
     text-align: center;
 }
 .gambar-plus{
     width: 5%;
-    margin-left: -35%;
+    margin-left: -25%;
 }
 .note-text-1{
     margin-left: 50%;
