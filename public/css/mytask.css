@@ -1,6 +1,6 @@
 body{
     font-family: verdana;
-    margin: 0px;
+    margin-top: 0;
     padding: 0px;
 }
 .container{
@@ -35,18 +35,21 @@ a:hover{
 .box-task{
     background-color: #B22222;
     padding-bottom: 10%;
+    height: 700px;
 }
 .note-text-1{
     display: block;
     width: 22%;
     color: #FFFF;
     font-size: 300%;
-    margin-top: -25%;
+    margin-top: -19%;
     text-align: center;
 }
 .gambar-plus{
     width: 5%;
-    margin-left: -25%;
+    margin-left: -23%;
+    margin-bottom: -18%;
+    
 }
 .note-text-1{
     margin-left: 50%;
@@ -55,7 +58,7 @@ a:hover{
 .deskripsi-plus{
     color: #d3cdea;
     margin-left: 13%;
-    margin-top: 12%;
+    margin-top: 27%;
     font-weight: bolder;
 }
 .deskripsi-plus:hover{

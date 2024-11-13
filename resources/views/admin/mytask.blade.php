@@ -19,9 +19,9 @@
     
     <div class="box-task">
         <img class="gambar-note" src="./images2/foto-notes.png" alt="">
-        <a href="task.html"><img class="gambar-plus" src="./images2/foto-plus.png" alt=""></a>
+        <a href="task"><img class="gambar-plus" src="./images2/foto-plus.png" alt=""></a>
         <div id="my-task" class="task">
-            <h3 class="note-text-1">Let's Get Started.</h3>
+            <h3 class="note-text-1">Let's <br> Get Started.</h3>
         <a href="task"><p class="deskripsi-plus">New List</p></a>
         </div>
     </div>

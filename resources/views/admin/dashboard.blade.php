@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('css/home.css') }}">
 </head>
 <body>
@@ -38,14 +39,14 @@
         <a href="mytask">
             <div class="fitur-task">
                 <img class="logo-task" src="./images2/logo-task.png" alt="">
-                <h3 class="my-task">My Task</h3>
+                <h3 class="my-task">MY <br>TASK</h3>
             </div>
         </a>
         
         <a href="calendar.html">
         <div class="fitur-calender">
             <img class="logo-calender" src="./images2/logo-calender.png" alt="">
-            <h3 class="task-calender">Task Calender</h3>
+            <h3 class="task-calender">TASK <br>CALENDAR</h3>
         </div>
         </a>
 
@@ -60,16 +61,18 @@
             <img class="garis" src="./images2/Line-2.png" alt="">
             <img class="garis-2" src="./images2/Line-2.png" alt="">
         </div>
-
+        
+        
         <div class="service1">
             <img class="foto-service1" src="./images2/foto-grup2.png" alt="">
-            <h2 class="judul-service1">Kesempurnaan Penjadwalan</h2>
-            <p class="deskripsi-service1">Mengelola penjadwalan tugas sehari hari hingga merencanakan tugas besar.</p>
+            <h2 class="judul-service1">Kesempurnaan <br>Penjadwalan</h2>
+            <p class="deskripsi-service1">Mengelola penjadwalan tugas <br>sehari hari hingga merencanakan <br> proyek-proyek besar.</p>
         </div>
+        
         <div class="service2">
             <img class="foto-service2" src="./images2/foto-grup.png" alt="">
-            <h2 class="judul-service2">Mengoptimalkan Waktu</h2>
-            <p class="deskripsi-service2">Menyesuaikan pengaturan waktu, mengalokasikan waktu sesuai kebutuhan individu.</p>
+            <h2 class="judul-service2">Mengoptimalkan <br>Waktu</h2>
+            <p class="deskripsi-service2">Menyesuaikan pengaturan waktu, <br>mengalokasikan waktu sesuai <br>kebutuhan individu.</p>
         </div>
 
         <div class="low"> 
